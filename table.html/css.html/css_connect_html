@@ -1,0 +1,27 @@
+<html>
+    <body>
+        <title></title>
+        html-struc
+        tag & attri
+<p></p>
+<prep></prep>
+css-desgin
+prop
+prop-name:prop-value;
+color:red;
+background-color:black;
+height:200px;
+width:100%;
+font-size;20px;
+
+
+
+
+3 type
+inline css(attri-style)
+internal css(tag-style)
+external css-desgin(file-css)
+<p style="color:red;" background-color:black;font-size:20px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam nihil ab quibusdam dolorem voluptatibus, sequi quo culpa nam dicta aperiam, aliquam rem eveniet corporis deleniti fugiat ducimus quos voluptatum assumenda?
+
+
+
